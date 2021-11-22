@@ -1,6 +1,6 @@
 # IOT-GS-
 
-Integrantes
+Integrantes:
 Artur Fonseca Pinheiro - 86397
 Lucas Fernandes Godoy - 85216
 Sara Kolenyak Freitas da Silva - 85412
